@@ -1,19 +1,10 @@
-# next-dotnet-auth0
+# Next.js Typescript Client
 
-A basic implementation of Auth0 using Next.js and dotnet minimal APIs that can be used as a template for future projects.
+Basic building blocks for a quick next js start up application with design system integration
 
-## Frontend
+## Local Run
 
-Read the frontend README
-
-```Basb
-cd client
-```
-
-## Backend
-
-Read the backend README
-
-```Basb
-cd server
+```bash
+  npm install
+  npm run dev
 ```
